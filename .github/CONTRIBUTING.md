@@ -54,21 +54,24 @@ By participating in this project, you are expected to uphold our [Code of Conduc
 ## Setting Up Development Environment
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/yourusername/oib-validator.git
    cd oib-validator
    ```
 
 2. Install development dependencies:
+
    ```
    pip install -e ".[dev]"
    ```
 
 3. Run tests to make sure everything is working:
+
    ```
    pytest
    ```
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the project's [MIT License](../LICENSE). 
+By contributing to this project, you agree that your contributions will be licensed under the project's [MIT License](../LICENSE).
