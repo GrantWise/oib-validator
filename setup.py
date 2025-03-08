@@ -7,7 +7,7 @@ setup(
     name="oib-validator",
     version="0.1.0",
     author="OIB Validator Contributors",
-    author_email="your.email@example.com",  # TODO: Update with your email before publishing
+    author_email="your.email@example.com",
     description="A validator for Croatian Personal Identification Numbers (OIB)",
     long_description=long_description,
     long_description_content_type="text/markdown",
