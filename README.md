@@ -86,4 +86,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Acknowledgments
 
 - Croatian Tax Administration for the OIB specification
-- ISO 7064 standard for the check digit algorithm 
+- ISO 7064 standard for the check digit algorithm

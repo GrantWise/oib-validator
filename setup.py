@@ -11,7 +11,7 @@ setup(
     description="A validator for Croatian Personal Identification Numbers (OIB)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/oib-validator",  # TODO: Update with your GitHub username before publishing
+    url="https://github.com/GrantWise/oib-validator",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -43,4 +43,4 @@ setup(
             "twine>=4.0.0",
         ],
     },
-) 
+)
